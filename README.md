@@ -37,5 +37,5 @@ To run this project on your local machine or cloud environment, follow these ste
 4. Adjust the configuration to point to your **Amazon S3** buckets and **Snowflake** account.
 5. Trigger the Airflow DAG to initiate the pipeline.
 
-## Acknowledgments
-I’d like to thank **Saylani Mass IT Training Program** and **Sir Qasim Hassan** for their invaluable guidance throughout my learning journey. Their support and mentorship have equipped me with the skills necessary to implement this project successfully.
+## Mentions
+I’d like to thank **Saylani Mass IT Training Program** and especially **Sir Qasim Hassan** for his invaluable guidance throughout my learning journey. The support and mentorship by sir Qasim have equipped me with the skills necessary to implement this project successfully.
