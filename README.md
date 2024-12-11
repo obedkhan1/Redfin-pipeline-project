@@ -38,4 +38,4 @@ To run this project on your local machine or cloud environment, follow these ste
 5. Trigger the Airflow DAG to initiate the pipeline.
 
 ## Mentions
-I’d like to thank **Saylani Mass IT Training Program** and especially **Sir Qasim Hassan** for his invaluable guidance throughout my learning journey. The support and mentorship by sir Qasim have equipped me with the skills necessary to implement this project successfully.
+I’d like to thank **Sir Qasim Hassan** for his guidance throughout my learning journey. The support and mentorship by sir Qasim for the skils I learned that are necessary to implement this project successfully.
