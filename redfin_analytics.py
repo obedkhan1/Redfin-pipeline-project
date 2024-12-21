@@ -52,8 +52,8 @@ def transform_data(task_instance):
     #let's map the month number to their respective month name.
     month_dict = {
         "period_begin_in_months": {
-            1 : "Jan",
-             2 :  "Feb",
+             1: "Jan",
+             2: "Feb",
              3: "Mar",
              4: "Apr",
              5: "May",
@@ -67,7 +67,7 @@ def transform_data(task_instance):
         },
         "period_end_in_months": {
             1 : "Jan",
-             2 :  "Feb",
+             2: "Feb",
              3: "Mar",
              4: "Apr",
              5: "May",
@@ -96,7 +96,7 @@ default_args = {
     'owner': 'airflow',
     'depends_on_past': False,
     'start_date': datetime(2024, 9, 29),
-    'email': ['smshahidahmed1973@gmail.com'],
+    'email': ['jfzkhan@gmail.com'],
     'email_on_failure': False,
     'email_on_retry': False,
     'retries': 2,
